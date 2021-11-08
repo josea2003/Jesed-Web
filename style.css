@@ -1,0 +1,19 @@
+.fg
+{
+    color: rgb(71, 71, 71);
+}
+@keyframes fade
+{
+    from{opacity: 0;}
+    to{opacity: 100;}
+}
+.f-animation
+{
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+.b-transp-green
+{
+    background-color: rgba(0, 128, 0, 0.274);
+}
